@@ -1,1 +1,2 @@
-Angular is a framework for creating SPA Applications
+Angular is a framework for creating SPA Applications.
+Itt is a full grown mature framework which feature -rich and apt for SPA applications
