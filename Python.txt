@@ -1,0 +1,2 @@
+Python is a no.1 neneral pupose programming language.
+It is widely used for Data Analytics and Machine Learning
